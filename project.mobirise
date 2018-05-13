@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tumbesperuhvm.github.io",
-    "currentPage": "page1.html",
+    "currentPage": "page3.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 40,
     "versionPublish": "4.7.2",
@@ -2555,8 +2555,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/imagen1-3-1132x635.png",
-                "thumb": "@PROJECT_PATH@/assets/images/imagen1-3-1132x635-722x406.png",
+                "image": "@PROJECT_PATH@/assets/images/imagen1-4-1132x635.png",
+                "thumb": "@PROJECT_PATH@/assets/images/imagen1-4-1132x635-577x324.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
